@@ -87,6 +87,41 @@
 
 ---
 
+### 🚀 Projects
+
+<table style="width:100%; border: none;">
+  <tr>
+    <td style="width:65%; vertical-align: top; padding-right: 20px;">
+
+<h3>🚀 <strong>GrowWise</strong> - Stock Portfolio Management System</h3>
+
+<p>
+GrowWise is a sleek and intuitive web application for managing your stock investments, tracking performance, and projecting returns — all in near real-time.
+</p>
+
+<ul>
+  <li>🔧 <strong>Tech Stack:</strong> FastAPI (backend), React + TailwindCSS (frontend), Firebase Auth</li>
+  <li>📊 <strong>Live Data:</strong> Stock data from Polygon.io and Tiingo APIs</li>
+  <li>📈 <strong>Features:</strong> Portfolio tracking, profit/loss reports, risk/diversity analysis, 30-day performance graphs</li>
+  <li>🔐 <strong>Authentication:</strong> Secure login/signup with email verification via Firebase</li>
+  <li>🧪 <strong>Testing:</strong> Backend testable via Pytest (coming soon)</li>
+  <li>💻 <strong>Run Locally:</strong> Python 3.8+, Node.js, environment variables for config</li>
+</ul>
+
+<p><strong>Maintainer:</strong> Asit Vats | 📧 <a href="mailto:asitvts@gmail.com">asitvts@gmail.com</a></p>
+
+</td>
+
+<td align="center" style="width:35%; vertical-align: middle;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF" style="border-radius: 10px; border: 3px solid #00BFFF;" />
+</td>
+  </tr>
+</table>
+
+---
+
+
+
 ### 🎯 Currently Exploring
 - **System calls, signals, and low-level Linux programming**
 - **REST APIs using FastAPI and Flask**
