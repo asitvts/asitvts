@@ -54,6 +54,13 @@
 
 ---
 
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/asitvts?theme=nord&font=Iceberg&ext=contest" alt="LeetCode Stats" />
+</p>
+
+
 ### 📈 GitHub Stats
 
 <p align="center">
