@@ -18,7 +18,7 @@
 - 🛠 Currently interning at **WatchGuard Technologies** in Noida, India
 - 💬 Ask me about: `sockets`, `pipes`, `FIFOs`, `message queues`, and anything related to **interprocess communication (IPC)**
 - 📚 I love exploring the intersection of **system design** and **modern web/backend development**
-- 🌍 Fun fact: I **love world history and geography** – ancient civilizations fascinate me!
+- 🌍 Fun fact: I **love world history and geography** – World Wars and ancient civilizations fascinate me!
 
 ---
 
