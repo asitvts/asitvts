@@ -13,12 +13,26 @@
 ---
 
 ### 🧠 About Me
+<table>
+<tr>
+<td>
 
-- 🎓 Computer Science student with a passion for **low-level systems**, **networking**, and **Linux internals**
-- 🛠 Currently interning at **WatchGuard Technologies** in Noida, India
-- 💬 Ask me about: `sockets`, `pipes`, `FIFOs`, `message queues`, and anything related to **interprocess communication (IPC)**
-- 📚 I love exploring the intersection of **system design** and **modern web/backend development**
-- 🌍 Fun fact: I **love world history and geography** – World Wars and ancient civilizations fascinate me!
+- 🎓 Computer Science student with a passion for **low-level systems**, **networking**, and **Linux internals**  
+- 🛠 Currently interning at **WatchGuard Technologies** in Noida, India  
+- 💬 Ask me about: `sockets`, `pipes`, `FIFOs`, `message queues`, and anything related to **interprocess communication (IPC)**  
+- 📚 I love exploring the intersection of **system design** and **modern web/backend development**  
+- 🌍 Fun fact: I **love world history and geography** – World Wars and ancient civilizations fascinate me!  
+
+</td>
+<td>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Anime coder" style="border: 3px solid #00BFFF; border-radius: 10px;" />
+</td>
+</tr>
+</table>
+
+
+
+
 
 ---
 
