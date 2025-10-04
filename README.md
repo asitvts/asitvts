@@ -80,19 +80,35 @@
 
 ### 🧠 LeetCode Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://leetcard.jacoblin.cool/asitvts?theme=nord&font=Iceberg&ext=contest" alt="LeetCode Stats" />
-</p>
+</p>-->
+
+![](https://leetcard.asitvts.cool/lapor?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/asitvts?ext=contest)
 
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asitvts&show_icons=true&theme=radical" alt="Asit's GitHub Stats" />
 </p>
+-->
+
+
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitvts&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asitvts&theme=tokyonight" width="500" alt="GitHub Streak Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitvts&layout=compact&theme=tokyonight" width="460" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
