@@ -80,12 +80,13 @@
 
 ### 🧠 LeetCode Stats
 
-<!--<p align="center">
-  <img src="https://leetcard.jacoblin.cool/asitvts?theme=nord&font=Iceberg&ext=contest" alt="LeetCode Stats" />
-</p>-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asitvts/asitvts/3cc56bc2dcde0225f5345e45837f5280122f8617/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f617369747674733f6578743d636f6e74657374.svg" alt="LeetCode Stats" />
+</p>
 
-![](https://leetcard.asitvts.cool/lapor?ext=contest)
+<!--
 ![Leetcode Stats](https://leetcard.jacoblin.cool/asitvts?ext=contest)
+-->
 
 
 ### 📈 GitHub Stats
