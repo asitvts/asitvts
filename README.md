@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Asit Vats</h1>
-<h3 align="center">Intern @ WatchGuard Technologies | Systems Programming Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Intern @ WatchGuard Technologies | Kernel Programming | Backend Dev</h3>
 
 <p align="center">
   <a href="https://twitter.com/asit_shankar" target="_blank">
@@ -157,5 +157,5 @@ GrowWise is a sleek and intuitive web application for managing your stock invest
 
 ---
 
-> 🧭 Exploring new tech, solving real problems, and building better every day
+> 🧭 Exploring new tech, solving real problems, and building 
 
